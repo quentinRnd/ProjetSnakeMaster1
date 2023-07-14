@@ -4,5 +4,5 @@ Pour faire tourner le projet il faut
 - ensuite il faut lancer le serveur de jeux avec la classe Main dans le repertoire game_server qui lance le serveur de jeux
 - ensuite il faut lancer les deux client avec le run.sh dans le répertoire client
 - lorsque les client demande des login password voici des utilisateurs-ices qui convienne 
-username -> player_1 password -> !!!!!!!!!!
-username -> player_2 password -> !!!!!!!!!!
+  - username -> player_1 password -> !!!!!!!!!!
+  - username -> player_2 password -> !!!!!!!!!!
